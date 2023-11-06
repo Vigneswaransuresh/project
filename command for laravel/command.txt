@@ -1,0 +1,14 @@
+composer create laravel/laravel appname
+
+
+php artisan serve 
+
+
+php artisan make: migration create_tablename_table
+
+php artisan migrate
+
+php artisan make :controller controller_name
+Routes-Web.php- Route
+
+App-http-controllers-CONTROLLER
